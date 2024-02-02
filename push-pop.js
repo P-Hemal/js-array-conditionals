@@ -2,7 +2,7 @@
 var friendsName =['asif', 'romio', 'joy', 'ananto'];
 friendsName.push("akash");
 // console.log(friendsName);
-var friendsName =['asif', 'romio', 'joy', 'ananto', 'akash'];
+var friendsName =['asif', 'romio', 'joy', 'ananto', 'Emon', 'akash'];
 friendsName.pop("");
 console.log(friendsName);
 // use pop to get last element
