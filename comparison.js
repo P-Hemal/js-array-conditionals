@@ -13,7 +13,7 @@
 
 //console.log(5 >= 10)
 
-//multiple condition
+multiple condition
 
 money1 > money2 && player1 > player2 && result1 > result2
 money1 > money2 || player1 > player2 || result1 > result2
