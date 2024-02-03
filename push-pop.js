@@ -7,6 +7,6 @@ friendsName.pop("");
 console.log(friendsName);
 // use pop to get last element
 
-var friendsName =[10, 20, 30, 40];
+var friendsName =[10, 20, 30, 40, 50];
 friendsName.pop();
 console.log(friendsName);
